@@ -59,5 +59,5 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Acknowledgments
-- Maeva Nap's [My Reads Walkthrough YouTube video](https://www.youtube.com/watch?v=i6L2jLHV9j8)
+- Maeva Nap's [My Reads Walkthrough](https://www.youtube.com/watch?v=i6L2jLHV9j8)
 - Ryan Waite's [FEND Project 6 - Walk Through (Long)](https://www.youtube.com/watch?v=acJHkd6K5kI&=&feature=youtu.be)
