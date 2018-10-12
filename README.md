@@ -9,9 +9,9 @@ In the MyReads project, you'll see a bookshelf app that allows you to select and
 The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 
 ## Installing and launching
-1. Clone or download the Repository
-2. Install all project dependencies with `npm install`
-3. Start the app with `npm start`
+- Clone or download the Repository
+- Install all project dependencies with `npm install`
+- Start the app with `npm start`
 
 ## Backend Server
 
