@@ -1,7 +1,12 @@
 # MyReads Project
 
 ## Project Overview
-In the MyReads project, you'll create a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
+In the MyReads project, you'll see a bookshelf app that allows you to select and categorize books as the following:
+- Currently Reading
+- Want to Read
+- Read
+
+The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 
 ## Installing and launching
 1. Clone or download the Repository
